@@ -47,9 +47,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7osssam&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7osssam&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="140" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=7osssam&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=10&date_format=j/n[/Y]&order=3" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=7osssam&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7osssam&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=7osssam&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=10&date_format=j/n[/Y]&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
