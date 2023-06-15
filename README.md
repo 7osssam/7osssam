@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hossam M.</h1>
+<h1 align="center">Hi 👋, I'm Hossam </h1>
 <h3 align="center">A passionate embedded software engineer with a strong passion for coding and a love for learning new technologies.</h3>
 
 - 🌱 I’m currently learning **embedded and Linux embedded programming**
