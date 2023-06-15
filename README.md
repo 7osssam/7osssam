@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning embedded and embedded Linux programming<br>📫 How to reach me 7ossam@duck.com<br>⚡ Fun fact I love analog film photography</p>
+<p align="left">📚 I'm currently learning <b>embedded and embedded Linux programming</b><br>📫 How to reach me <b><a href="mailto:7ossam@duck.com">7ossam@duck.com</a></b> <br>⚡ Fun fact I love analog film photography 📸 and visual arts 🖼️</p>
 
 ###
 
@@ -47,14 +47,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7osssam&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7osssam&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=7osssam&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=10&date_format=j/n[/Y]&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=7osssam&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7osssam&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=7osssam&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=10&date_format=j/n[/Y]&order=3" height="140" alt="streak graph"  />
 </div>
 
 ###
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">You can find me @</h2>
 
 ###
 
