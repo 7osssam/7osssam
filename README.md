@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">A passionate embedded software engineer with a strong passion for coding and a love for learning new technologies.</p>
+<p align="center">A passionate software engineer with a strong passion for coding and a love for learning new technologies.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning <b>embedded and embedded Linux programming</b><br>📫 How to reach me <b><a href="mailto:7ossam@duck.com">7ossam@duck.com</a></b> <br>⚡ Fun fact I love analog film photography 📸 and visual arts 🖼️</p>
+<p align="left">📚 I'm currently interested in <b>C++ development</b><br>📫 How to reach me <b><a href="mailto:7ossam@duck.com">7ossam@duck.com</a></b> <br>⚡ Fun fact I love analog film photography 📸 and Algorithmic Art 🤖 and creative coding 🖼️</p>
 
 ###
 
@@ -61,9 +61,6 @@
 <div align="left">
   <a href="https://linkedin.com/in/hoxyz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/hoxyz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
   </a>
 </div>
 
